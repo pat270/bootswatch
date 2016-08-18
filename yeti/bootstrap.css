@@ -4872,11 +4872,11 @@ a.label:focus {
   top: -1px;
 }
 .label-default {
-  background-color: #999999;
+  background-color: #e7e7e7;
 }
 .label-default[href]:hover,
 .label-default[href]:focus {
-  background-color: #808080;
+  background-color: #cecece;
 }
 .label-primary {
   background-color: #008cba;
@@ -7024,7 +7024,6 @@ input[type="checkbox"] {
   font-weight: 300;
 }
 .label-default {
-  background-color: #e7e7e7;
   color: #333333;
 }
 .badge {
